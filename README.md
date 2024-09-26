@@ -1,0 +1,2 @@
+# FolderStruct
+Clean Architecture - FolderStruct
